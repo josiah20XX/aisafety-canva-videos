@@ -2,7 +2,7 @@
 
 Part of a mission to explore and understand AI-generated, human-controlled creative work. Ultimately contributing to the promotion and advancement of AI safety. By Josiah Rhys Jacobson.
 
-## 16:9 Widescreen
+## Web (Widescreen)
 
 ### AGI - Warning Video
 
