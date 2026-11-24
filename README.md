@@ -1,6 +1,6 @@
 # Canva Video Production (Human/ AI Collaboration)
 
-Part of a mission to explore and understand AI-generated, human-controlled creative work. Ultimately contributing to the promotion and advancement of AI safety. By Josiah Rhys Jacobson.
+Part of a mission to explore and understand AI-generated, human-controlled creative work. By Josiah Rhys Jacobson.
 
 ## Web (Widescreen)
 
